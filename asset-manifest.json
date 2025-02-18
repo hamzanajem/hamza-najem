@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hamza-najem/static/css/main.772b4904.css",
-    "main.js": "/hamza-najem/static/js/main.0684251c.js",
+    "main.js": "/hamza-najem/static/js/main.c5d2a7c8.js",
     "index.html": "/hamza-najem/index.html",
     "main.772b4904.css.map": "/hamza-najem/static/css/main.772b4904.css.map",
-    "main.0684251c.js.map": "/hamza-najem/static/js/main.0684251c.js.map"
+    "main.c5d2a7c8.js.map": "/hamza-najem/static/js/main.c5d2a7c8.js.map"
   },
   "entrypoints": [
     "static/css/main.772b4904.css",
-    "static/js/main.0684251c.js"
+    "static/js/main.c5d2a7c8.js"
   ]
 }
